@@ -6,6 +6,7 @@ public class NewTest1 {
   @Test
   public void f() {
 	  System.out.println("Testing");
+	  System.out.println("Testing from Git");
   }
   @BeforeTest
   public void beforeTest() {
