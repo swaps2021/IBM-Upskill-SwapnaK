@@ -7,6 +7,7 @@ public class NewTest1 {
   public void f() {
 	  System.out.println("Testing");
 	  System.out.println("Testing from Git");
+	  System.out.println("Testing Commit2");
   }
   @BeforeTest
   public void beforeTest() {
